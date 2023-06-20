@@ -34,3 +34,30 @@ python second.py
 > When you run the scripts, a window will open showing the first frame of the video. You need to select the object that you want to track by drawing a bounding box around it. After you have selected the object, press ENTER to start tracking.
 
 ## Examples
+Built-in OpenCV:
+
+![opencv](opencv.gif)
+
+
+With YOLO:
+
+![yolo](yolo.gif)
+
+## Contributors
+
+We would like to thank the following contributors for their valuable contributions to this project:
+
+- [@gizemakturk.ga](https://github.com/gizemakturk.ga)
+
+Special thanks to everyone who has submitted bug reports, feature requests, and provided feedback on the project.
+
+If you would like to contribute to this project, please check out our [Contribution Guidelines](CONTRIBUTING.md) for more information.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this software for any purpose, as long as the original copyright notice and license terms are included.
+
+For more information, please refer to the [LICENSE](LICENSE) file.
+
