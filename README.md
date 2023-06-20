@@ -47,7 +47,7 @@ With YOLO:
 
 We would like to thank the following contributors for their valuable contributions to this project:
 
-- [@gizemakturk.ga](https://github.com/gizemakturk.ga)
+- [@gizemakturk](https://github.com/gizemakturk)
 
 Special thanks to everyone who has submitted bug reports, feature requests, and provided feedback on the project.
 
