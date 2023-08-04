@@ -6,6 +6,9 @@
 
 >This repository contains scripts for object tracking in video using OpenCV's built-in trackers and the YOLOv4 object detection model.
 
+<a href="https://www.buymeacoffee.com/mehmetkaragozdev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mehmetkaragozdev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
 ## Files
 
 - `coco.names`: This file contains the names of the 80 object classes that the YOLOv4 model can detect.
